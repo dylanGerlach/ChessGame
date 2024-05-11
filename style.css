@@ -1,0 +1,48 @@
+
+
+
+
+
+body{
+    margin: 0;
+    background: darkgray;
+    overflow: hidden;
+    display: inline-block;
+}
+
+#myCanvas{
+    background-color: lightblue;
+    vertical-align: top;
+    display: inline-block;
+
+}
+
+.stats{
+    background-color: lightblue;
+    vertical-align: top;
+    display: inline-block;
+    height: 800px;
+    width: 300px;
+
+}
+.page{
+    display: block;
+
+}
+
+.innerStats{
+background-color: lightcoral;
+
+margin: 20px;
+margin-top: 8px;
+display: inline-block;
+}
+
+#move{
+width: 250px;
+margin-top: 0px;
+}
+
+
+
+

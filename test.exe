@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chess</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="page">
+        <div class ="left">
+            <p class="moves">
+            List of Moves:
+            </p>
+        </div>
+        <div class ="middle">
+
+            
+        <canvas id="myCanvas" >  </canvas>
+            
+               
+        </div>
+        <div class="right">
+            <p id="moveCheck">Whites turn</p>
+        </div>
+
+    </div>
+    <script src="playerInput.js"></script>
+    <script src="utils.js"></script>
+    <script src="board.js"></script>
+    <script src="game.js"></script>
+    <script src="main.js"></script>
+
+</body>
+</html>
